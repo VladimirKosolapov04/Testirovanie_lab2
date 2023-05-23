@@ -1,0 +1,15 @@
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.csproj.AssemblyReference.cache
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.AssemblyInfoInputs.cache
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.AssemblyInfo.cs
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.csproj.CoreCompileInputs.cache
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\bin\Debug\net6.0\Tpoas2.exe
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\bin\Debug\net6.0\Tpoas2.deps.json
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\bin\Debug\net6.0\Tpoas2.runtimeconfig.json
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\bin\Debug\net6.0\Tpoas2.dll
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\bin\Debug\net6.0\Tpoas2.pdb
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.dll
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\refint\Tpoas2.dll
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.pdb
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\Tpoas2.genruntimeconfig.cache
+C:\Users\slava\Documents\Visual Studio 2022\Project\Tpoas2\obj\Debug\net6.0\ref\Tpoas2.dll
